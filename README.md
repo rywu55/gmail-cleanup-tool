@@ -2,6 +2,12 @@
 
 A locally-hosted web app that connects to your Gmail account via OAuth and helps you bulk-manage, filter, and clean up emails. Everything runs on your machine — no data is sent to any third-party server beyond the Gmail API.
 
+## Screenshots
+
+![Review & Delete](resources/review-and-delete.png)
+
+![Sender Rules](resources/sender-rules.png)
+
 ## What it does
 
 - Loads your 1,000 most recent emails and scores each one for "promotional likelihood" using local heuristics (no external AI calls)
